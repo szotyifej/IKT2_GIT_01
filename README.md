@@ -1,7 +1,7 @@
-# IKT2_GIT_01
+# GITHUB Project
 
 > A cél egy egyszerű HTML + CSS reszponzív oldal elkészítése (), sűrű commit-okkal és több branch-en dolgozva, majd ezeket Pull Request segítségével beolvasztani a main ágba.
 
-- **HTML**: 
-- **CSS**:
-- **GIT**:
+- **HTML**: A HTML az alapértelmezett jelölőnyelv a dokumentumokhoz, amelyeket webböngészőben való megjelenítésre terveztek.
+- **CSS**: A CSS egy webfejlesztésben használt nyelv, amely javítja a HTML-elemek megjelenését.
+- **GIT**: A GitHub egy zárt fejlesztői platform, amely lehetővé teszi a fejlesztők számára, hogy létrehozzák, tárolják, kezeljék és megosszák a kódjukat.
