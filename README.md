@@ -6,6 +6,10 @@
 - **CSS**: A CSS egy webfejlesztésben használt nyelv, amely javítja a HTML-elemek megjelenését.
 - **GIT**: A GitHub egy zárt fejlesztői platform, amely lehetővé teszi a fejlesztők számára, hogy létrehozzák, tárolják, kezeljék és megosszák a kódjukat.
 
+|GIT|HTML|CSS|JS|
+|---|----|---|--|
+|⭐⭐⭐⭐⭐|⭐⭐⭐|⭐⭐⭐⭐|⭐⭐⭐⭐⭐|
+
 ~~~html
 <!DOCTYPE html>
 <html lang="en">
@@ -21,3 +25,4 @@
 ~~~
 
 <!--Add code examples like the one below for Javascript and CSS-->
+
