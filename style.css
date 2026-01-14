@@ -1,6 +1,15 @@
-header{
+ .header{
   height : 100px;
   padding : 10px;
   background-color:#3939c8;
   color:white;
+}
+
+.footer{
+  height : 150px;
+  padding : 20px;
+  display : flex;
+}
+.footer p{
+  flex : 1;
 }
